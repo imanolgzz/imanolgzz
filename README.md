@@ -1,5 +1,6 @@
 <h1 align="center">Imanol González</h1>
-<h3 align="center">A software engineer student at Tecnológico de Monterrey </h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=25&duration=2600&width=500&height=55&lines=A+Software+Engineer+Student;passioned+about+computer+science%2C;technology+and+game+development)](https://git.io/typing-svg)
 
 - 🌱 I’m currently working on **Unity and C#**
 
