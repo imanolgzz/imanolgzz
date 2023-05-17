@@ -1,6 +1,6 @@
 <h1 align="center">Imanol González</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=25&duration=2600&width=500&height=55&lines=A+Software+Engineer+Student;passioned+about+computer+science%2C;technology+and+game+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=25&duration=7000&width=1100&height=55&lines=A+Software+Engineer+Student+passioned+about+computer+science%2C+technology+and+game+development)](https://git.io/typing-svg)
 
 I am a computer engineering student with a strong passion for software development, particularly in the field of game development. I have experience with Unity programming, as well as proficiency in programming languages such as C++, C#, and Python. I am currently seeking internships or other entry-level opportunities that will allow me to apply my knowledge and skills in a challenging and rewarding environment.
 
