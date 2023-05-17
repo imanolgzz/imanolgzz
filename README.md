@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I´m Imanol</h1>
-<h3 align="center">A software engineer student from Mexico at Tecnológico de Monterrey 🐏</h3>
+<h1 align="center">Imanol González</h1>
+<h3 align="center">A software engineer student at Tecnológico de Monterrey </h3>
 
 - 🌱 I’m currently working on **Unity and C#**
 
