@@ -4,8 +4,7 @@
 
 I am a computer engineering student with a strong passion for software development, particularly in the field of game development. I have experience with Unity programming, as well as proficiency in programming languages such as C++, C#, and Python. I am currently seeking internships or other entry-level opportunities that will allow me to apply my knowledge and skills in a challenging and rewarding environment.
 
-- 📫 Email me **imanolgzzsolis@gmail.com**
-- ⚒️ My LinkedIn Profile [imanolgzz](https://www.linkedin.com/in/imanolgzz/)
+- 📫 Reach me on LinkedIn [imanolgzz](https://www.linkedin.com/in/imanolgzz/)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
