@@ -30,12 +30,6 @@ With a proven track record of delivering innovative solutions across various tec
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React" width="49.2" height="40"/></a>
 </p>
 
-- **Game Engines**
-
-<p align="left">
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/127-1274512_unity-transparent-white-png-unity.png" alt="unity" width="101" height="40"/> </a>
-</p>
-
 - **AI Technologies and Frameworks**
 
 <p align="left">
@@ -44,12 +38,16 @@ With a proven track record of delivering innovative solutions across various tec
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" alt="OpenCV" width="40" height="40"/> </a>
 </p>
 
-- **DevOps**
+- **Data Storage and Management**
 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="Git" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/01/e5/00/01e500fca29c045d432b64f285f9c229.jpg" alt="Github" width="40" height="40"/> </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VsCode" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL" width="77" height="40"/> </a> &nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/MDB_BIG.D-96d632a9.png?t=1648915248" alt="MongoDB" width="150.67" height="38"/> </a> &nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-knockout.png?hl=es-419" alt="Firebase" width="133.55" height="38"/> </a>
+</p>
 
+- **Game Engines**
 
-
-- **Miscellaneous technologies**
-
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/mx/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premierepro" width="40" height="40"/> </a> 
+<p align="left">
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/127-1274512_unity-transparent-white-png-unity.png" alt="unity" width="101" height="40"/> </a>
+</p>
