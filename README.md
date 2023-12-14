@@ -1,8 +1,10 @@
 <h1 align="center">Imanol González</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=25&duration=7500&width=1200&height=35&lines=A+Software+Engineer+Student+passioned+about+computer+science%2C+technology+and+game+development)](https://git.io/typing-svg)
+Passionate Software Developer specialized in crafting technological solutions to address complex problems and streamline operational processes. With a versatile skill set, I have worked with diverse technologies, spanning from Unity for immersive game development, to python for creating cutting-edge applications. My expertise includes integrating artificial intelligence, leveraging advanced Large Language Models such as OpenAI GPT-4, and employing Deep Learning techniques within the TensorFlow framework.
 
-I am a computer engineering student with a strong passion for software development, particularly in the field of game development. I have experience with Unity programming, as well as proficiency in programming languages such as C++, C#, and Python. I am currently seeking internships or other entry-level opportunities that will allow me to apply my knowledge and skills in a challenging and rewarding environment.
+In addition to my existing skill set, I am well-versed in Flask for scalable web applications and RESTful APIs. Proficient in C++, I leverage it for high-performance computing and robust system-level applications. Additionally, I utilize JavaScript to interact with dynamic web applications. My expertise includes MySQL for efficient relational databases and MongoDB for flexible and scalable solutions, enhancing my ability to adapt and innovate across diverse technological landscapes.
+
+With a proven track record of delivering innovative solutions across various technologies, I bring a results-driven approach to every project. If you're seeking a passionate and adaptable Software Engineer who can leverage a wide array of technical skills to drive success in your projects, let's connect and explore how I can contribute to your team or project goals.
 
 - 📫 Reach me on LinkedIn [imanolgzz](https://www.linkedin.com/in/imanolgzz/)
 
