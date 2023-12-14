@@ -6,18 +6,22 @@ In addition to my existing skill set, I am well-versed in Flask for scalable web
 
 With a proven track record of delivering innovative solutions across various technologies, I bring a results-driven approach to every project. If you're seeking a passionate and adaptable Software Engineer who can leverage a wide array of technical skills to drive success in your projects, let's connect and explore how I can contribute to your team or project goals.
 
-- 📫 Reach me on LinkedIn [imanolgzz](https://www.linkedin.com/in/imanolgzz/)
+- 💼 Reach me on LinkedIn [https://www.linkedin.com/in/imanolgzz/](https://www.linkedin.com/in/imanolgzz/)
+- 📺 Explore my YouTube channel [https://www.youtube.com/@imaxinio](https://www.youtube.com/@imaxinio)
+- 📧 Feel free to email me at imanolgzzsolis@gmail.com
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>&nbsp;&nbsp;Coding Skills</b>
 
 - **Programming Languages**
 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
 
 - **Web Development**
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="40" height="40"/></a></p> 
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="40" height="40"/></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/198-1983860_serving-raspberry-pi-with-flask-django-vs-flask.png" alt="Flask" width="102.6" height="40"/></a></p>
 
-- **Game Development**
+
+
+- **Game Engines**
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/127-1274512_unity-transparent-white-png-unity.png" alt="unity" width="101" height="40"/> </a>
 
