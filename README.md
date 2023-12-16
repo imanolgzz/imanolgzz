@@ -51,3 +51,9 @@ With a proven track record of delivering innovative solutions across various tec
 <p align="left">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/127-1274512_unity-transparent-white-png-unity.png" alt="unity" width="101" height="40"/> </a>
 </p>
+
+
+## 📊 <b> My Stats </b>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImanolGzz&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImanolGzz&theme=radical)
